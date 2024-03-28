@@ -1,4 +1,4 @@
--- A SQL script that creates a table (called users) following these requirements:
+-- Script that creates a table users following these requirements:
 -- id, email, name, country(enumeration of US, CO and TN)
 CREATE TABLE IF NOT EXISTS users(
 	id int NOT NULL PRIMARY KEY AUTO_INCREMENT,

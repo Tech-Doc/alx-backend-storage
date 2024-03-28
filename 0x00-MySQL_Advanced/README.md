@@ -1,1 +1,1 @@
-# Solutions to tasks on 0x00. MySQL advanced
+0x00-MySQL_Advancedd
